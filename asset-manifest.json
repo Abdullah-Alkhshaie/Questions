@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Questions/static/css/main.39280b39.css",
+    "main.js": "/Questions/static/js/main.cfe85e4a.js",
+    "index.html": "/Questions/index.html",
+    "main.39280b39.css.map": "/Questions/static/css/main.39280b39.css.map",
+    "main.cfe85e4a.js.map": "/Questions/static/js/main.cfe85e4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39280b39.css",
+    "static/js/main.cfe85e4a.js"
+  ]
+}
